@@ -42,7 +42,7 @@ These tools are broken down into the following categories:
 
 ## Due Date:
 
-Try to have all Day 1 instructions by the beginning of class on July 25th, 2022. 
+Try to have all Day 1 instructions by the beginning of class on Day 1. 
 
 ## Special Notes:
 
