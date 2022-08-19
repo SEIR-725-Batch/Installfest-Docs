@@ -2,7 +2,7 @@
 
 # Overview:
 
-Hello SEIR 725 - Welcome! We are so excited to meet you all and to work with you over the next 12+ weeks.  
+Hello Welcome! We are so excited to meet you all and to work with you over the next 12+ weeks.  
 
 To get the most out of our time together and to get you up-to-speed faster, *we will be rolling out our instruction a few days early*. **Before class on Day 1 you will install a few key pieces of software by following a self-paced guide for setting up your ‘developer environment.’**  
 
